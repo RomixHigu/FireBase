@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "510354377785",
+    "firebase_url": "https://romifp-b1477-default-rtdb.firebaseio.com",
+    "project_id": "romifp-b1477",
+    "storage_bucket": "romifp-b1477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510354377785:android:db24ea7ca0d3b0be9d11e8",
+        "android_client_info": {
+          "package_name": "com.android2023.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDikWvZPnVdAp9Te6EBuEqQNfwg-2JyIIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
